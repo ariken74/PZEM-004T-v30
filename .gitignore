@@ -30,3 +30,4 @@
 # Environment
 .vscode
 .pio
+.DS_Store
